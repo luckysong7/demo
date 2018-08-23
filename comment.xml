@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<lists>
+	<total>4</total>
+	<comment num = "4"	>
+		<name>최유정</name>
+		<job>가수</job>
+		<birth>1999-11-12</birth>		
+	</comment>
+	
+	<comment num = "3"	>
+		<name>홍진영</name>
+		<job>가수</job>
+		<birth>1985-8-9</birth>
+	</comment>
+	
+	<comment num = "2"	>
+		<name>전소미</name>
+		<job>가수</job>
+		<birth>2001-3-9</birth>
+	</comment>
+	
+	<comment num = "1"	>
+		<name>주결경</name>
+		<job>가수</job>
+		<birth>1998-12-16</birth>
+	</comment>
+</lists>
